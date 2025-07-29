@@ -1,6 +1,6 @@
 # Runway-at-home
 
-trend-translator/
+#trend-translator/
 ├── app/                         # Core backend logic (LLM, RAG, scraping)
 │   ├── trend_parser.py          # Trend → wearable description (LLM prompting)
 │   ├── rag_module.py            # Retrieval from local trend knowledge base
@@ -44,3 +44,4 @@ trend-translator/
     ├── business_brief.pdf
     └── screenshots/             # UI/Output screenshots for your write-up
 
+#
