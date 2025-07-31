@@ -1,0 +1,8 @@
+transformers
+accelerate
+bitsandbytes
+gradio
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
