@@ -1,0 +1,786 @@
+trend_name,description
+Quiet Luxury,"Understated elegance through muted tones, tailored silhouettes, and high-quality fabrics."
+Regencycore,"Inspired by Regency-era fashion with corsets, empire waistlines, and romantic detailing."
+Soft Grunge,"Combines grunge staples like tartan and combat boots with softer, feminine pieces."
+Indie Sleaze,Retro-inspired aesthetic mixing thrift-store punk with 2000s flash and messy hair.
+Cherry Girl,"A bold palette dominated by cherry red, used in dresses, shoes, and accessories."
+Boho Chic in Suede,Bohemian silhouettes styled with flowing suede fabrics and neutral palettes.
+Animal Print Everything,"Leopard, zebra, cow, and snakeskin prints used liberally across garments."
+Psychedelic Flow,Swirling prints and vibrant colors reminiscent of 70s psychedelic art.
+Midis and Jorts,Denim silhouettes like capris and jorts making a mainstream comeback.
+Nomadic Spirit,"Layered boho looks with embroidery, shawls, and artisanal accessories."
+Balletcore,"Soft pastels, wrap skirts, leotards, and ballet flats used for an ultra-feminine look."
+Cyber Glow,"Futuristic fashion with metallic tones, neon lights, and tech-inspired cuts."
+Grunge Revival,"Ripped jeans, band tees, and oversized flannel in a 90s throwback style."
+Cottagecore,"Prairie dresses, floral prints, and a romanticized rural aesthetic."
+Glam Goth,"Black lace, velvet, and edgy accessories with a romantic dark twist."
+Y2K Revival,"Low-rise jeans, butterfly clips, and shiny textures recalling early 2000s fashion."
+Matrix Leather,Long black trench coats and sleek silhouettes inspired by sci-fi aesthetics.
+Gorp Core,"Outdoor gear turned streetwear with utility vests, hiking boots, and shell jackets."
+Sheer Monochromes,Single-color outfits built from layered sheer and transparent fabrics.
+Utility Romance,"Combines utilitarian silhouettes with soft, flowing fabrics and feminine touches."
+Luxe Loungewear,"Comfort-first outfits with silk, cashmere, and elevated knitwear."
+Statement Coats,"Outerwear in bold colors, prints, or exaggerated silhouettes."
+Featherlight Fringe,"Fringe used on skirts, sleeves, and dresses to add playful movement."
+Power Pastels,Tailored suits and structured garments rendered in soft pastel colors.
+Reworked Vintage,Upcycled or remade garments inspired by past fashion eras.
+Dark Academia,"Tweed blazers, wool skirts, and bookish layers in dark tones."
+Coastal Cowgirl,"Blends beachwear with western boots, hats, and fringe."
+Athleisure Edge,Modern sportswear meets urban cool through technical fabrics.
+Futuristic Armor,"Structured silhouettes, neoprene, and bold metallics."
+Minimal Maximalism,Clean lines mixed with oversized shapes and contrasting textures.
+Digital Couture,AI-generated or tech-influenced prints and silhouettes.
+Gingham Revival,"Picnic-ready patterns used on dresses, suits, and even shoes."
+Craftcore,"Garments that highlight handcraft—crochet, quilting, and embroidery."
+Barbiecore,Bright pink outfits inspired by the Barbie aesthetic and femininity.
+Fringe Renaissance,Western-inspired fringe gets a glam upgrade in modern fabrics.
+Bubble Hem Comeback,Revival of the bubble silhouette for skirts and dresses.
+All Things Furry,"Faux fur jackets, cuffs, and accessories make a statement."
+Frazzled but Fabulous,"Disheveled layering that mixes patterns, textures, and comfort."
+Tonal Tailoring,Head-to-toe tailored outfits in a single color family.
+Pastel Pop,"Cotton candy tones applied to outerwear, bags, and heels."
+Sculptural Silhouettes,3D forms and experimental tailoring define this artistic trend.
+Denim Redux,Deconstructed and reassembled denim for a patchwork look.
+Oceanic Blues,"Shades of turquoise, seafoam, and navy inspired by marine life."
+Neo-Punk,"Studded leather, aggressive prints, and DIY vibes return."
+Layered Sportswear,"Running shorts, base layers, and track jackets styled with polish."
+Brocade and Baroque,"Regal prints, embroidery, and drama with gold accents."
+Festival Futurism,Burning Man-inspired rave fashion with reflective materials.
+Desert Neutrals,"Earth-toned pieces in linen, suede, and cotton."
+Checkerboard Cool,"Black-and-white checks on pants, bags, and outerwear."
+Scandi Simplicity,Minimalist tailoring in soft tones and clean lines.
+Color Blocking,Bold color-blocking using primary hues to create high-impact visuals.
+Denim Redux,Denim-on-denim with modern cuts and washed finishes.
+Athleisure,Sporty aesthetic blending activewear with casual street fashion.
+Pastel Pop,Playful use of pastels and candy tones for spring dressing.
+Digital Couture,Digital prints and 3D embellishments merging tech and style.
+Utility Chic,Utilitarian pieces like cargo pants and oversized pockets meet streetwear.
+Power Silhouettes,Structured shoulders and exaggerated sleeves add volume and drama.
+Quiet Luxury,"Understated elegance via muted tones, clean tailoring, and high‑quality fabrics "
+Regencycore,Romantic empire waists and corsets inspired by Bridgerton aesthetics 
+Soft Grunge,Grunge staples like tartan and combat boots softened with feminine touches 
+Indie Sleaze,"Messy, vintage punk‑meets‑Y2K aesthetics rooted in 2000s nostalgia"
+Cherry Girl,Bold cherry‑red palettes featured across clothing and accessories 
+Boho Chic in Suede,Flowing bohemian silhouettes reinterpreted in suede fabrics 
+Animal Print Everything,"Maximalist use of leopard, zebra, snakeskin, and cow prints "
+Psychedelic Flow,Swirling tie‑dye and bold 70s‑inspired prints for statement looks
+Midis & Jorts,Denim reinstated in the form of midi-skirts and jorts for summer 
+Nomadic Spirit,"Layered boho looks with embroidery, shawls, and artisanal finishes "
+Balletcore,"Ultra‑feminine styling with wrap skirts, pastels, and ballet flats "
+Cyber Glow,Futuristic metallics and neon cuts inspired by sci‑fi fashion 
+Grunge Revival,"Oversized flannels, ripped jeans, and band tees in throwback style "
+Cottagecore,"Romantic prairie dresses, florals, and ruffles inspired by rustic aesthetics "
+Glam Goth,"Velvet, lace, and edgy accessories with romantic dark styling"
+Y2K Revival,"Low-rise jeans, butterfly clips, neon, and early 2000s fashion revival"
+Matrix Leather,Long trench coats and sleek black leather in cyberpunk style 
+Gorp Core,"Outdoor gear (puffer jackets, hiking boots) reimagined as streetwear "
+Sheer Monochromes,Layered transparent fabrics built into tonal outfits 
+Utility Romance,Blends of utilitarian silhouettes with flowing feminine fabrics 
+Luxe Loungewear,Elevated knitwear and silk-cashmere comfort outfits 
+Statement Coats,Bold coats in vibrant colors or prints to anchor minimal looks 
+Feather Fringe,"Playful fringe accents on sleeves, hemlines, and jackets "
+Power Pastels,Structured tailoring infused with soft pastel hues 
+Reworked Vintage,Upcycled styles inspired by vintage eras reimagined for today
+Dark Academia,"Tweeds, pleats, and preppy layers in intellectual dark tones "
+Coastal Core,Marine-inspired prints and beachwear mixed with city basics 
+Athleisure Edge,Tailored sportswear combined with technical fabrics for street style 
+Futuristic Armor,"Structured neoprene, metallics, and bold metallic tailoring "
+Minimal Maximalism,Contrast between clean minimal and oversized maximalist elements
+Digital Couture,AI-generated prints and tech-influenced designs in couture fashion 
+Gingham Revival,"Checkered gingham patterns in dresses, suits, and accessories "
+Craftcore,"Handcrafted aesthetics with crochet, quilting, and embroidery "
+Barbiecore,Candy-pink outfits and surreal accessories inspired by Barbie media 
+Bubble Hem Skirts,Voluminous bubble hems making a statement in skirts and dresses 
+Furry Textures,Faux-fur trims and coats used for cozy expression 
+Frazzled Fabulous,Deliberately disheveled layering mixing textures confidently 
+Tonal Tailoring,Head-to-toe tailoring in single-tone palettes for refined styling 
+Pastel Pop,"Sweet pastel colors applied to outerwear, bags, and heels "
+Sculptural Silhouettes,Artistic tailoring and volume in 3D garment structure
+Denim Redux,Deconstructed denim patched into updated silhouettes and jackets 
+Oceanic Blues,"Palette inspired by marine life: teal, aqua, seafoam, navy "
+Neo‑Punk,"Punk aesthetics modernized with studs, DIY, and aggressive prints "
+Layered Sportswear,"Track pieces, shorts, and base layers styled with polish "
+Brocade & Baroque,Embroidered opulence and regal prints in 2025 high-season styling
+Festival Futurism,Reflective ravewear inspired by Burning Man and festival culture 
+Desert Neutrals,Earthy linen and suede in sun-washed pastel shades 
+Checkerboard Cool,Graphic black-and-white checks on apparel and accessories 
+Scandi Simplicity,Minimalist tailoring in soft hues and crisp lines 
+Health Goth,Gothic aesthetics merged with minimalist sportswear silhouettes 
+Goblincore,"Nature-inspired thrifted aesthetic celebrating mud, moss, and mushrooms "
+Hannah Montana‑core,Nostalgic blend of Y2K sparkles and farm-chic layering
+Coastal Granny,"Pastels, linen, and relaxed classics handcrafted into beach polish "
+Pirate Boots Revival,"18th‑century inspired high‑shaft boots with buckles and slouchy shapes, reimagined for modern wear"
+Butter Yellow,Soft creamy yellow tones used as a warm neutral in linen and silk staples 
+Mocha Mousse,Deep chocolate-brown hue dominating Fall 2025 collections as the Pantone of the season
+Powder Pink,Cool pastel pinks used in flowy dresses and separates on Spring runways 
+Tangerine Pop,Bright citrus tones acting as playful accent colors in bold styling 
+Icy Blue,Soft icy-toned blues featured in ethereal suiting and outerwear 
+Lilac Shades,"Muted lavender hues across knits and accessories, balancing pastel trends "
+Sea La Vie,Mermaid-core aesthetic with sequins and ocean-inspired accents 
+Slice of Life Style,"Real-life dressing with practical, office-ready staples for everyday elegance "
+Boho 2.0,Elevated bohemian silhouettes with vintage influences and polish 
+Meaningful Minimalism,Carefully edited wardrobes with understated functionality and personal touches 
+Power Rewired,"A blend of grunge, rock, and vintage luxury that embraces rebellion and attitude "
+Good Bad Taste,"Bold, eclectic fashion that mixes kitsch and creativity on purpose "
+Let's Move!,"Versatile athleisure-inspired pieces designed for active, community-focused lifestyles "
+Childlike Comfort,"Nostalgic, whimsical clothing emphasizing softness and ease of movement "
+Town & Country Chic,"English countryside styling with plaid, equestrian pieces, and riding boots "
+Vintage Lace Revival,"Romantic lace detailing in modern silhouettes, balancing nostalgia and elegance "
+Grape Purple,"Vibrant deep purple seen in statement coats, boots, and bold outerwear "
+Boho Furs,Faux-fur outerwear styled with boho textures and vintage shapes for Fall ’25
+Next‑Gen Sequins,Oversized paillettes and reflective textures in luxe evening silhouettes 
+Shrunk Blazers,"Fitted, cropped blazers with nipped waists for a modern tailored look "
+Narrow Sneakers,Retro-inspired slim sneakers complementing tailored and casual outfits 
+Peplum Tops,Flared waist tops merging dressy and casual in knit or satin fabrics 
+Drop-Waist Dresses,Early-20th-century silhouette revived in fluid midi and maxi dress styles
+The Nightie Dress,Slip-style mini dresses that blend lingerie-inspired chic with minimal styling 
+Scarf Styling,"Hair, neck, and belt scarf usage layering texture and color in simple outfits "
+Teen Spirit Plaid,"Youthful plaid patterns styled in skirts, shirts, and accessories for Spring "
+Utility Scout Gear,Functional olive-tone utility pieces like jackets and pants for street style 
+Pleated Everything,Pleated skirts and trousers making the fabric texture the star of the look 
+Tank Top U‑Turns,Sleeveless layering staples reimagined for transition between seasons 
+Hot Pants,Retro-inspired shorts popularized via festival styling and mini dresses 
+Aquatic Influences,"Sea-themed prints, scales, and marine tones in dresses and knitwear "
+Feminine Polo Shirts,Knit polos with soft collars and elevated fabric details for subtle sportiness 
+Thong Sandals,Minimalist sandals gaining traction for versatility in warm-weather looks 
+Strapless Dresses,"Structured, bare-shoulder dresses dominating eveningwear and red-carpet looks "
+Asymmetry Details,"Off-center hemlines, one-shoulder designs, and draped shapes for visual interest "
+Corsets Over Shirts,Layering corsets atop shirts or tees for a modern fashion statement 
+Moto Waistcoats,Oversized moto-style vests and waistcoats as core layering pieces 
+Red Sandals,Bright scarlet sandals as bold accessories in Summer ’25 wardrobes
+Crochet Co‑ords,"Matching sets made in crochet, reimagining vintage handcraft in modern cuts "
+Broderie Anglaise Tops,"Intricate lacework in blouses and dresses offering light, breezy decoration "
+Barrel and Flare Jeans,Retro wide-leg denim silhouettes returning with high-waist and loss fit 
+Fisherman Aesthetic,Coastal inspired looks with cable knit sweaters and rain-ready layers 
+Sea Witchery,Mysterious oceanic fantasy styling with wet textures and dark tones 
+Cherry Coded,Cherry-red fashion palettes paired with playful makeup accents 
+Aura Beauty Fashion,Mood-based monochromatic outfit curation inspired by personal color aura 
+Goddess Complex Style,"Ethereal styling using braid crowns, gold tones, and goddess-like draping "
+Moto Boho,A mashup of moto edge and bohemian textures—for effortless statement wear 
+Grandpa-Core,"Vintage knitwear, sweater vests, and retro menswear nods made cozy (also called eclectic grandpa) "
+Weirdcore Aesthetic,"Surreal, early internet nostalgia translated into prints and dreamy styling "
+Kidcore Revival,Joyful primary-color fashion nodding to 90s and early 2000s childhood motifs
+Cyberpunk Tailoring,Structured black suiting with cyberpunk embellishments and tech-inspired lines 
+Reconstructed Clothing,"Upcycled garments remade into new pieces, favored in sustainable fashion lines "
+Headscarf Chic,"Vintage silk scarves used as hair, neck, or accessory pieces for a refined retro polish "
+Slouch Meets Structure,Relaxed boots and bags styled with structured tailoring for a relaxed yet polished silhouette 
+Vintage Lace Revival,Romantic lace styling resurging in mid skirts and blouses for nostalgic elegance 
+Grape Purple,"Bold violet shades dominating coats, boots, and dresses in Fall 2025 collections"
+Slouchy Bags,Oversized soft suede or leather bags offering a lived-in urban feel 
+Nylon Waterproof Styling,Shiny and practical waterproof fabrics used in outerwear for urban-chic utility
+Pleated Texture,Pleated skirts and trousers creating dynamic movement and visual interest
+Scarf-as-Belt Styling,"Bright silky scarves used as belts, accessories, and statement layers "
+Sporty Bottom Trends,"Fashion-forward athletic bottoms — runner shorts, skorts seen beyond gym styling"
+Tea-Length Denim Skirts,Long denim maxi skirts styled casually with tank tops or loafers
+Cord Necklace Accessory,90s-style leather or suede cord necklaces with shells or minimalist pendants
+Pirate Boots Revival,High-shaft boots with buckles and slouches reimagined in luxury fabrics 
+Corsets Over Shirts,Layered corsets worn atop shirts or tees for a bold transitional style 
+Power Rewired,Punk-infused luxury combines attitude with tailoring and vintage rock edits
+Powder Pink Palette,"Muted pastel pinks applied liberally to dresses, suits, and accessories "
+Mocha Mousse Shades,Rich chocolate-brown tones dominating outerwear and accessories in Fall 2025
+Tangerine Pop,Bold citrus hues used as playful color accents in styling 
+Icy Blue Minimalism,Soft icy blue suiting and knitwear offering ethereal spring transitions 
+Fleur-de-Lis Florals,Embroidered floral motifs reminiscent of vintage craftsmanship 
+Fisherman Aesthetic,Cable knits and rain-ready styling inspired by coastal fashion heritage 
+High-Waist Bubble Hem,Bubble silhouette skirts and shorts revisiting retro 80s volume cuts
+Broad Gingham Patterns,"Chunky gingham checks styled across dresses, tops, and accessories "
+Hot Pants Resurgence,Retro-cut shorts styled solo or with sheer tights and blazers
+Aquatic Wonderland,Sea-inspired palettes & shell detailing across knitwear & dresses 
+Feminine Polo Reimagined,Soft-collar knit polos elevated with contrast trims and luxe fabric 
+Thong Sandals Revival,Minimalist sandals styled with everything from dresses to jeans 
+Strapless Dresses Return,Bare-shoulder maxis in structured fabric dominating eveningwear 
+Asymmetrical Tailoring,"Hemlines off-kilter, one-shoulder styles, and draped shapes for intrigue "
+Tiny Scarves Everywhere,"Mini scarf accessories tied on wrists, hair, bags, or waists "
+Teen Spirit Plaid,Youthful plaid motifs dominate summer shirts and skirts styling 
+Scout Utility Core,"Olive utility jackets, vests, and Scout-inspired khaki layering "
+U-turn Tank Tops,Sleek layering basics reinterpreted for office-ready ease 
+Clean Girl Aesthetic,Minimalist neutral tones with fresh skincare vibes defined the “clean girl” trend of 2025
+Eco Reconstructed Styling,Upcycled garments redesigned into new statement pieces for conscious fashion 
+Goblincore Expressionism,Nature-core fashion embracing earth tones and botanical textures 
+Fairy Grunge Fusion,"Ethereal meets edgy—think floats, jerseys, mesh combined in dreamlike layers "
+Coquette Aesthetic,"Feminine, playful aesthetics with bows, pastels, lace inspired by Tumblr and TikTok "
+Health Goth,Athletic silhouettes paired with gothic tailoring in monochrome tones 
+Nymphet-Core,Pastel-lace styling and heart-shaped accessories recalling early-2000s youthcore
+Eclectic Grandpa Core,"Vintage knitwear, sweater vests, tweed caps as styled for quirky elegance "
+Moto Boho Styling,Rough leather moto jackets layered with soft bohemian textures for attitude balanced with ease 
+Clean Elle UPMIN,Crisp wardrobe basics styled sleekly in neutral tones for everyday polish 
+Dopamine Dressing,Vibrant color combinations meant to evoke joy and self-expression in 2025 styling
+Italian Garden Party Core,Mediterranean florals and linen silhouettes styled for relaxed sophistication 
+Coastal Grandmother Core,"Pastel linen, wovens, and beachy classics reimagined with maturity and comfort "
+Bold Red Sandals,Bright scarlet sandals making seasonal statements across styling picks 
+Fish-Themed Jewelry,Playful aquatic accessories like anchovy earrings and shell pendants trending locally 
+Silver Hues,Metallic silver tones emerged at New York Fashion Week Fall-Winter ’25 in outerwear and suiting
+Dresses Over Pants,Layered dress-over-pants styling featured prominently at NYFW as a fresh silhouette
+Corp Core,"Business-casual tailoring with an elevated, streetwise finish seen at NYFW"
+Electric Purple,Rich purple shades across coats and blazers trending on fall runways 
+Mocha Mousse Color,Deep chocolate brown became the Pantone hue of the year for Fall ’25
+Flared Denim,Bootcut and flared jeans returned with a 70s revival aesthetic
+Polka Dot Prints,Graphic spots in mixed patterns emerged as a bold trend in spring styling 
+Minimalist Mastercraft,Clean-lined fashion emphasizing craftsmanship and material quality 
+Tank Top U‑Turns,Transitional tank tops reimagined for layered city dressing 
+Pleated Everything,"Motion-rich pleats in trousers, skirts, and dresses dominated trends "
+Checks and Balances,Tailored checked suiting and chic plaid looks for Spring ’25
+Summertime Prep,Preppy separates and shirting blended with vibrant summer palettes 
+Bohemian Blouse,Romantic chiffon blouses with twist-necks and flowing silhouettes 
+Skants & Skirts,Hybrid skirt-pants designs streamlining mobility and style 
+Bubble Hems,Inflated hems on skirts and dresses offering sculptural impact 
+Flared Shorts,90s-inspired Bermuda shorts gaining streetwear appeal
+Mesh Market Totes,Minimalist mesh bags styled with delicate accessories for summer 
+Lace-Trim Dresses,Romantic lace edges bring softness to midi and maxi looks 
+Jelly Flats,Designer jelly sandals revived for polished everyday wear 
+Flip-Flop Revival,Leather flip-flops elevated beyond beachwear into fashion staples 
+Tank Basics,Classic racerback tanks as multi-seasonal minimal wear essentials 
+Boat Shoes Revival,Suede boat shoes resurfaced on trending summer footwear charts 
+Bermuda Denim Shorts,Tailored denim cutoffs featured as smart summer staples 
+Crafted Lace & Embroidery,Artisanal detail and embroidery led tender luxury looks 
+Minimalist Draping,Sculptural draped garments featured across runway and street
+Wrong-Jacket Theory,Unexpected outerwear layered with formal and casual looks 
+Polka-Dot Dressing,Reusable bold polka-dot prints styled in daring combinations 
+Personalized Styling,Strong move toward individual-led styling and expression 
+Corporate Relaxed Tailoring,Softened corporate wear with loose fabrics & relaxed fit
+Butter Yellow,Creamy pastel yellow featured across dresses and knitwear 
+Wispy Pink,Soft pinks applied in fluid dresses & understated tailoring 
+Moody Plum,Rich plum tones giving fall wardrobes a luxurious edge 
+Crisp Blue Cotton,Textured crisp blue colors in cotton shirting and dresses 
+Prime Time Sneakers,Adidas Tokyo’s sneakers returned as seasonal highlights 
+Mid Rise Bootlegs,Jeans with a mildly flared leg and mid-rise waist for a modern throwback
+Western Yokes,Western-cut shirts with embroidery and pearl snap details 
+Cowboy Coats,Fringe-accented suede jackets inspired by western music icons 
+Duster Coats,Long lightweight coats styled casually over weekend wear 
+Stetson Hats,Cowboy hats and brimmed caps revived as street accessories 
+Camera Mustard,Mustard tones and vintage camera hardware mixing tech with retro 
+Eclectic Grandpa,Colorful grandfather-cardigan styling with quirky knit motifs 
+Athlingerie,Lingerie-inspired activewear blending sensuality with fitness fabrics 
+Household Travelcore,"Hybrid dressing for travel, comfort, and urban styling essentials "
+Tiny Scarves,Miniature neck or wrist scarves serve as muted statement accessory 
+Haunted Doll Core,Eerie doll-core style with dark whimsy and gothic nostalgia 
+Jorts & Cowboy Boots,Streetwear combining short denim and western footwear 
+Cloud Nine Inflated Shapes,Puffy sculptural dresses and jackets inspired by inflatable silhouettes from Spring 2025 runway shows.
+Tulle Wraps,Airy and romantic tulle wraps and layered dresses creating dreamy silhouettes.
+Soft Filter Romance,"Styling driven by sheer organza, ruffles, and pastel hues for an ethereal feel."
+Creature Print Accessories,Animal-shaped bags and creature motifs adding whimsy to statement accessories.
+Rave Style Reinterpreted,90s-inspired rave silhouettes with modern sporty layering and oversized cuts.
+Tweed for Warm Weather,Light tweed jackets and skirts reimagined for spring and summer styling.
+Foulard Dresses,Scarf-print dresses with asymmetrical hems offering elegant fluidity.
+Crystal Embellishments,"Fringe and crystal accents used in tops, dresses, and accessories for glam appeal."
+Hourglass Sculpting,Structured tailoring with exaggerated waist curves for a sculpted silhouette.
+Neon Statement Colors,"Bright neon tones featured across coats, shoes, and accessories."
+Corpcore Shoulders,Oversized blazers with structured shoulders rooted in business wear.
+Nomadic Spirit,"Boho-inspired layered looks with embroidery, fringe, and artisanal details."
+Modern Academia,"Tweed blazers, wool skirts, and structured bookish layering."
+Maximalism for Minimalists,Understated silhouettes made bold through material and textural play.
+Butter Yellow Revival,"Soft yellow tones seen across ready-to-wear, accessories, and footwear."
+Structured Tote Comeback,Oversized geometric totes emerging as high-fashion staples.
+Sculptural Belts,Wide or artistic belts redefined as focal styling elements.
+Statement Sunglasses,Sculptural and futuristic sunglasses as centerpieces of styling.
+The Row’s India Bowling Bag,Structured bowling bag shapes trending in minimal luxury.
+Miu Miu Boat Shoes,Preppy suede boat shoes elevated for everyday casual chic.
+Adidas Sprinter Shorts,Athletic shorts styled outside the gym in polished urban outfits.
+Drop-Waist Dresses,"Loose, vintage-inspired waistlines returning in midi-length silhouettes."
+Stretch Tank Tops,Fitted basics worn as elevated layering staples.
+Harem Pant Revival,Baggy drop-crotch pants styled for modern comfort.
+Resort Sequin Statements,Giant sequins on dresses and tops for vacation-inspired evening wear.
+Mod Mini Silhouettes,60s mini skirts and dresses reimagined in bold fabrics.
+Leopard-Neutral Outerwear,Animal prints in brown and beige tones styled as closet neutrals.
+Fresh Color Blocking,Two- and three-tone color stories making bold separates.
+Coastal Prep,Nautical-inspired striped separates in cottons and linens.
+Electric Blues,"Vivid shades of blue dominating jackets, heels, and suiting."
+Fluid Shapes,Flowy and asymmetric cuts creating graceful movement.
+Statement Leather Jackets,Sleek fitted leather jackets as standout pieces.
+Fancy Flats,"Designer flats with embellishments, satin, or crystals."
+Mod Mini Dresses,High-hemline retro shapes with graphic or monotone finishes.
+Serpentine Cutouts,Side and bust cutouts subtly incorporated into dresses and tops.
+Long Bermuda Shorts,"Tailored, knee-length shorts styled with oversized tops."
+Meaningful Minimalism,Simple but thoughtfully tailored garments with refined textures.
+Coquette Pastel Couture,"Feminine styles featuring lace, ribbons, and soft pastel hues."
+Retro Americana Yokes,Western shirt detailing making a comeback in casual wear.
+Eclectic Grandpa Knits,Chunky vintage cardigans styled with modern ease.
+Western Fringe Jackets,Fringe-accented suede jackets returning in boho-modern styling.
+Duster Coats,Long lightweight coats worn layered over casual daywear.
+Stetson Hat Revival,Cowboy hats repurposed as city-ready headwear.
+Floral Embellished Reticules,Drawstring handbags adorned with floral embroidery.
+Crystal Caterpillar Detailing,Dangling crystal elements resembling jeweled fringe.
+Side-Slit Flamenco Ruffles,Tiered ruffle hems inspired by Latin dancewear.
+Pencil Skirt Revival,"Sharpened silhouettes for skirts, styled with knits or blouses."
+Strong Preppy Pleats,Pleated skirts and kilts as modern office staples.
+Perforated Leather Outerwear,Leather jackets with breathable perforations for spring.
+Cutout Tank Minimalism,Tank tops with subtle geometric or side cutouts.
+Oversized Windbreakers,Baggy windbreakers styled over summer dresses or trousers.
+All-Gingham Styling,Multiple gingham patterns styled across full outfits.
+Cold Shoulder Cutouts,Off-shoulder and cold-shoulder styling making a polished return.
+Oversized Suede Tote Bags,Soft suede totes sized for carry-all functionality.
+Fuchsia Power Separates,Magenta pantsuits and blazers dominating seasonal runways.
+Surrealist Accessory Designs,Unconventional jewelry and bags inspired by surrealist art.
+Eclectic Pattern Clashes,Mixed prints and textures boldly layered together.
+Anti-Algorithm Personal Styling,Fashion rejecting trend conformity in favor of self-expression.
+Material Maximalism,"Layered textures including fringe, fur, velvet, and sequin."
+Digital Influence Prints,AI-generated glitch art patterns and pixelated textures.
+Mirror Metallics,"Reflective silver and chrome surfaces used in boots, bags, and outerwear for a futuristic edge."
+Fringe Revival,"Shimmering fringe details on dresses, jackets, and bags evoke movement and drama."
+Mesh Layering,Layered mesh tops and dresses for a sheer yet styled look in summer and evening wear.
+Y2K Ruching,"Ruching on tops, skirts, and dresses adds retro-futuristic texture and volume."
+Utility Corsetry,Corset-inspired tops combined with utility fabrics and buckle closures.
+Denim Deconstruction,Distressed and reassembled denim creating unique patchwork aesthetics.
+Micro Minis,Ultra-short skirts styled with oversized jackets for a bold contrast.
+Sheer Panel Dresses,Translucent sections in longline dresses to add allure while maintaining structure.
+Color-Dipped Knitwear,Gradient-dyed knit tops and dresses for a modern boho touch.
+Athluxury,Merging technical athleticwear with luxe fabrics like satin and silk.
+Metal-Studded Accessories,Bags and belts featuring heavy metal detailing for edge.
+Shearling Sandals,Fuzzy slip-ons and sandals for transitional weather luxury.
+Lace Bodysuits,Fitted bodysuits made with lace for layering under blazers or sheer tops.
+Pillow Coats,Padded quilted jackets shaped like duvets offering warmth and volume.
+Cybercore Streetwear,"Neon, mesh, and synthetic fabrics influenced by digital and club aesthetics."
+Slashed Sleeves,Sleeves with deliberate tears or slits adding drama to basics.
+Color Pop Tights,Bright colored hosiery worn under neutrals for visual contrast.
+Quilted Skirts,"Textured, lightly padded skirts as winter alternatives to denim."
+Velour Tracksuits,Soft-touch velour sets making a glam comeback from the 2000s.
+Satin Trench Coats,Classic trench silhouettes reimagined in glossy satin.
+Tech Fabric Shirts,Shirts made from wrinkle-free or sweat-resistant technical fabrics.
+Feather Details,"Feathers on cuffs, hems, and collars for whimsical flair."
+Caramel Leather,Warm tan and caramel leather used in trench coats and boots.
+Glossy Latex,High-shine latex garments used in edgy yet tailored designs.
+Tenniscore,"Polo tops, skorts, and varsity-inspired knits influenced by tennis fashion."
+Ballet Flats Reboot,Minimalist or square-toe flats trending in high-end collections.
+Layered Tank Dresses,Multiple tank layers combined into one elongated silhouette.
+Embroidered Denim,"Jeans adorned with stitched floral, graphic, or metallic motifs."
+Origami Pleats,"Sharp, geometric pleating techniques drawing from Japanese aesthetics."
+Belted Blazers,Tailored jackets cinched at the waist with fabric or leather belts.
+Bouclé Blends,"Tweed and bouclé used beyond jackets—in skirts, sets, and bags."
+Wide-Leg Overalls,Denim and cotton overalls cut wide at the leg for comfort and edge.
+Appliqué Detailing,Decorative patches and sewn-on motifs adding handmade personality.
+Cowl Neck Comeback,Draped neckline tops and dresses recalling 90s elegance.
+Lingerie as Outerwear,Slip dresses and lace camis styled for daytime wear.
+Chained Straps,"Chain-link used as straps for bags, dresses, and sandals."
+Fuzzy Bucket Hats,Retro bucket hats made from fuzzy mohair or faux fur.
+Foil Prints,Foil-printed metallic graphics catching light on dark fabrics.
+Ruffled Collars,Victorian-inspired collars adding romantic drama to blouses.
+Transparent Raincoats,Clear or tinted waterproof outerwear styled over fashion-forward looks.
+Cropped Suiting,Tailored blazers and trousers cut short for a youthful silhouette.
+Layered Necklines,Double or asymmetrical necklines on tanks and tops.
+Tonal Checks,Plaid and checkered prints in tonal (single-color family) palettes.
+Buttonless Jackets,"Minimalist coats and jackets with clean, button-free finishes."
+Harness Accessories,Body harnesses styled over shirts or dresses for fashion-forward utility.
+Two-Tone Footwear,Shoes with high-contrast front/back or toe/heel color blocks.
+Emo Aesthetic Revival,"Dark color palettes, plaid, and band references resurfacing."
+Monk-Strap Loafers,Classic loafers updated with monk-strap buckles and chunky soles.
+Denim Maxi Coats,Full-length denim outerwear with frayed seams or embellishments.
+Zipper Detailing,"Decorative zippers placed along arms, legs, or waistlines."
+3D Floral Appliqué,"Raised flower textures on tops, gowns, and accessories."
+Wrap Skorts,Shorts disguised as skirts with asymmetrical wrap styling.
+Gradient Faux Fur,Multicolored fur coats or scarves that fade from one hue to another.
+Crinkled Satin,Wrinkled or textured satin fabric in eveningwear.
+Scuba-Inspired Pieces,Neoprene and bonded fabrics used in sporty tailoring.
+Tiny Cardigans,Ultra-cropped knit cardigans worn as statement layering pieces.
+Overdyed Denim,"Saturated dyes on denim, creating vibrant or moody hues."
+Transparent Heels,Clear heels and lucite platforms seen across runway footwear.
+Psychedelic Swirls,"60s-inspired graphic patterns on shirts, suits, and accessories."
+Bow Detailing,"Bows on sleeves, backs, and collars for a feminine twist."
+Unfinished Hems,"Raw edges and frayed finishes on skirts, pants, and jackets."
+Pastel Leather,"Softly colored leather in mint, lavender, and blush tones."
+Sleeve Slits,Subtle or dramatic slits in sleeves offering movement and visual intrigue.
+Bra Tops,Minimalist bralette-style tops styled with high-waist trousers or blazers.
+Denim Corsets,Structured denim corset tops mixing feminine and street styles.
+Rugby Stripes,Bold horizontal stripes inspired by athletic rugby uniforms.
+PVC Outerwear,Clear or glossy plastic coats styled over bold outfits.
+Drawstring Detailing,"Sporty drawstrings used decoratively on sleeves, hems, or waists."
+Convertible Clothing,"Garments that transform—pants to shorts, jackets to vests."
+Asymmetrical Zippers,Zippers placed diagonally or irregularly for edgy detailing.
+Tech Satchels,Utility-inspired crossbodies with pockets and clips.
+Patchwork Leather,Multiple leather tones or textures patched together.
+Bubble Sleeves,Rounded voluminous sleeves creating romantic drama.
+Square Toe Shoes,Square-shaped toe boxes gaining popularity in heels and flats.
+Color-Blocked Knitwear,Bold blocks of contrasting color in sweaters and cardigans.
+Sculptural Earrings,"Oversized, artistic earrings with unconventional shapes."
+Split-Hem Pants,Trousers with ankle splits styled with statement shoes.
+Dramatic Cowls,Over-exaggerated cowl necklines on knitwear or silk.
+Sheer Midi Skirts,See-through mid-length skirts layered with bodysuits or shorts.
+Corset Belts,Thick waist-cinching belts styled over shirts or dresses.
+Slouchy Suiting,Relaxed-fit suits for an undone yet tailored silhouette.
+Crossover Waistbands,Pants and skirts with angled waist closures.
+Ombre Denim,Denim fading from dark to light shades for dimension.
+Sheer Socks,Transparent socks worn with loafers or heels.
+Padded Headbands,Thick headbands adding volume and preppy flair.
+Exaggerated Ruching,"Bold ruching effects on skirts, sleeves, or waistlines."
+3D Logos,Raised or padded branding on outerwear or accessories.
+Cape Coats,Structured coats with slits or cutouts instead of sleeves.
+Oversized Hoods,Extra-large hoods adding mystery and comfort.
+Velvet Two-Pieces,Matching velvet separates giving rich texture.
+Pleather Everything,Sustainable faux leather used for full outfits.
+Sweater Vests,Knit vests layered over shirts or worn solo.
+Braided Accessories,"Woven detailing in belts, bags, and hairpieces."
+Lace Gloves,Sheer gloves reimagined with delicate lace for daytime wear.
+Suede Sets,Coordinated suede separates styled for transitional weather.
+Cropped Puffers,Short quilted jackets for style and mobility.
+Oversized Blouses,Billowy button-downs paired with fitted bottoms.
+Canvas Belts,Military-inspired belts in heavy canvas and metal closures.
+Tie-Dye Denim,Multicolor or tonal tie-dye treatments on jeans.
+Asymmetric Earrings,Intentionally mismatched earrings for visual tension.
+Bustle Shapes,Back-structured skirts reminiscent of Victorian bustle silhouettes.
+Varsity Jackets,Retro athletic jackets returning in bold colorways.
+Layered Watches,Multiple watches or cuffs stacked together.
+Beaded Fringe,Tiny bead fringe applied to hems and sleeves.
+Glove Boots,Tight-fitting boots that hug the ankle like gloves.
+Split-Color Garments,Outfits where one side differs in color or texture.
+Bell Bottom Revival,"Wide flares from knee down, often with high waists."
+Netting Fabrics,Fishnet or mesh used across tops and layered dresses.
+Geometric Sunglasses,"Hard-edged frames—hexagon, rectangle—making eyewear bold."
+Side-Buckle Trousers,Waist adjustments on the side offering tailoring flair.
+Faux Pearl Details,"Pearl embellishments used outside jewelry—on denim, collars, and more."
+Ruched Handbags,Gathered leather textures in soft clutches or shoulder bags.
+Layered Button-Ups,Two collared shirts worn together for layering play.
+Color-Contrast Stitching,Visible seam stitches in opposing colors.
+Denim Vests,Sleeveless denim jackets styled as tops or over tees.
+Micro Quilting,Tiny quilt patterns on accessories or garments.
+Chainmail Fabrics,Metallic mesh giving medieval but modern appeal.
+Half-Zip Pullovers,Retro-style sweatshirts with zippered necklines.
+Feathered Heels,Shoes adorned with feathers for maximalist styling.
+Pinstripe Revival,Classic menswear pinstripes returning in new cuts.
+Knit Dresses,Figure-hugging or oversized knit dresses styled with boots.
+Triangle Bags,Pyramid-shaped purses offering modern geometry.
+Puff Shoulder Blazers,Blazers with accentuated puffed shoulders.
+Flared Sleeves,Bell-shaped or dramatic elongated sleeves.
+Double Belts,Two belts worn together for layered waist styling.
+Metallic Nails Matching Outfits,Coordination of nails and metallic garments.
+Reverse Seams,Inside-out or intentionally exposed garment seams.
+Zebra Print Resurgence,High-contrast zebra patterns seen in streetwear.
+Balletcore,"Wrap skirts, tights, and ballet flats styled offstage."
+Crinkle Cotton,Wrinkled cotton textures for airy and rustic styles.
+Two-Tone Hair Accessories,Hairbands or clips with distinct dual shades.
+Sculpted Footwear Soles,Wavy or chunky architectural sole designs.
+Overstated Tassels,Extra-long tassels hanging from bags or skirts.
+Hybrid Dresses,Mix of shirt and dress structures into one piece.
+Drawstring Blazers,Tailored pieces cinched by cords at the waist.
+Printed Turtlenecks,Base layers with psychedelic or abstract prints.
+Metallic Trench Coats,Shiny trenches giving futuristic outerwear appeal.
+Detached Sleeves,Sleeves as standalone accessories or arm warmers.
+Harness Boots,Boots with leather strap and buckle details.
+Layered Socks and Heels,Socks intentionally styled with open-toe shoes.
+Wool Bucket Hats,Bucket silhouettes made in soft winter wool.
+Chandelier Earrings,Dramatic multi-tiered earrings as outfit anchors.
+Luxe Tracksuits,Velvet or silk loungewear sets styled as streetwear.
+Stacked Rings,Hands full of mixed-size rings in bold pairings.
+Dual Waistbands,Pants appearing layered via double waistband illusion.
+Sweater Dresses with Slits,Knit dresses featuring thigh or side slits.
+Collarbone Cutouts,Subtle cutouts around shoulders and collarbones.
+Oversized Graphic Tees,Big bold tees with vintage or ironic prints.
+Corduroy Revival,Retro ribbed fabric trending in jackets and pants.
+Plastic Bangles,Bright chunky bracelets recalling 80s accessories.
+Graphic Arm Warmers,Fingerless gloves with patterns or prints.
+Velcro Sneakers,Throwback velcro-strap shoes trending in luxury lines.
+Abstract Button Placements,Nonlinear or off-center buttons on blouses.
+Windbreaker Skirts,Activewear fabric styled as street skirts.
+Satin Co-Ords,Matching satin top-and-bottom sets for sleek statements.
+Logo Waistbands,Visible branded elastic waistbands styled with crop tops.
+Square Necklines,Necklines cut in strong horizontal shapes.
+Diagonal Color Blocking,Dynamic diagonal cuts dividing color zones.
+Ribbed Knit Sets,"Cozy, stretch-knit co-ords trending in minimal aesthetics."
+Asymmetrical Maxi Skirts,One-sided hems styled with boots or sandals.
+Scarf Bandeau Tops,Silky scarves tied and styled as strapless tops.
+Denim Clutches,Handheld bags crafted from or styled like denim.
+Turtleneck Dresses,"Long fitted knits with warm, high collars."
+Voluminous Capes,Draped outerwear pieces adding drama and warmth.
+Neon Lingerie Sets,Bright undergarments styled subtly into outerwear.
+Embossed Leather,Leather embossed with floral or geometric texture.
+Racerback Blazers,Suits with athletic back cuts blending tailoring and sport.
+Vintage Monograms,Logos or initials printed in retro fonts on apparel.
+Accordion Pleats,Fine pleats creating texture and movement in skirts and dresses.
+Vampire Aesthetic,"Dark romantic fashion with lace, high collars, and gothic flair."
+Sequined Tailoring,Suits and blazers adorned with sequins for glam evenings.
+Faux Fur Stoles,Vintage-style shoulder wraps in colorful faux fur.
+Two-In-One Jackets,Hybrid outerwear combining denim and leather or puffer and trench.
+Minimalist Harnesses,Slim leather straps styled over blazers or dresses.
+Luxe Pajama Sets,Silky button-downs and wide-leg pants as daytime fashion.
+Jersey Dresses,Sporty knit dresses for casual sophistication.
+Reversible Outerwear,Coats and jackets designed with two contrasting sides.
+Sporty Rompers,Utility-inspired one-pieces blending sport and streetwear.
+Mesh Insert Leggings,Activewear with mesh cutouts for ventilation and style.
+Iridescent Coats,"Shiny, color-shifting trench and puffer jackets."
+Oversized Knit Scarves,Chunky scarves styled like shawls or hoods.
+Quilted Bucket Bags,Puffy textured handhelds combining softness and structure.
+Checkerboard Prints,Retro black-and-white patterns revived for tops and pants.
+Utility Vests,Multi-pocket vests layered over tees or turtlenecks.
+Metal-Tip Collars,Shirt collars featuring metallic embellishments or pins.
+Cape Sleeve Tops,Tops with dramatic flowing cape-like sleeves.
+Tie-Waist Dresses,Dresses with built-in fabric belts or ties at the waist.
+Half-and-Half Jeans,Split-color or two-tone denim in one garment.
+Layered Skater Skirts,Mini skirts with ruffled or tiered layers.
+Painted Denim,Jeans hand-painted or screen-printed with artistic designs.
+Velcro Detailing,Visible velcro closures as design elements on outerwear.
+Chain Belts,Waist chains with charms styled over dresses or low-rise pants.
+Floral Mesh Tops,Sheer tops printed or embroidered with oversized flowers.
+Glossed Cotton,"Cotton with a coated, slightly shiny finish."
+Half-Glove Tops,Sleeves extending into fingerless gloves.
+Denim Shackets,Overshirt-jacket hybrids made from heavy denim.
+Double Collars,Garments with stacked or layered collar designs.
+Ruffled Joggers,Track pants with unexpected frilly trim.
+Split-Toe Shoes,Tabi-style footwear with separated big toes.
+Panelled Sweatshirts,Color-block or textured inserts in classic crewnecks.
+Button-Front Maxi Skirts,Long skirts featuring central button plackets.
+Wrap-Front Shirts,Cross-over button-downs offering a feminine twist.
+Suede Fringed Bags,Western-inspired crossbodies with fringe details.
+Contrast Piping,Sewing outlines highlighted with piping in bold colors.
+Camo Comeback,Military camouflage patterns returning in new cuts.
+Circle Cutouts,Round peekaboo holes placed along sleeves or bodices.
+Boiler Suits,"Zip-front, utilitarian one-pieces styled with heels."
+Layered Collar Chains,Chain jewelry clipped between shirt collars.
+Folded Hem Pants,Cuffed pants with dramatic oversized folds.
+Poplin Dresses,Crisp cotton shirt-dresses with puff or tiered skirts.
+Zigzag Knitwear,Sweaters and skirts featuring colorful chevron patterns.
+Crystal Crop Tops,Bedazzled short tops paired with blazers or suits.
+Distressed Leather,Pre-worn and cracked leather textures on jackets.
+Double Hoodies,Sweatshirts featuring layered hoods for bulk.
+Bejeweled Denim,Jeans and jackets with rhinestones and metallic studs.
+Printed Sheer Socks,Sheer hosiery with dainty floral or graphic prints.
+Retro Tennis Sets,Pleated skorts and polos inspired by 90s tennis fashion.
+Matte Sequins,Low-shine sequins offering elegant shimmer.
+Boxy Crop Jackets,Cropped outerwear in stiff fabrics with wide silhouettes.
+Logo Scarves,Oversized scarves emblazoned with brand logos.
+Drawstring Cargos,Cargo pants with elastic hems and adjustable ties.
+Embroidered Collars,Detailed stitching on shirt or dress necklines.
+Tie-Front Cardigans,Knits that fasten with ribbons or small bows.
+Origami Dresses,Folds and angles creating architectural silhouettes.
+Raw Hem Denim Skirts,Unfinished edges on longline or asymmetrical denim.
+Underwire Tops,Bust-accenting tops mimicking bra structures.
+Double-Layered Pants,Shorts or skirts sewn over full-length trousers.
+Velvet Tracksuits,Retro athleisure sets in luxe plush velvet.
+Patch Pocket Blazers,Blazers with oversized square front pockets.
+Marble Print,Swirly prints inspired by stone textures.
+Harness Dresses,Dresses styled with buckled strap overlays.
+Circular Bags,Round crossbodies and handhelds gaining traction.
+Flame Motifs,Flame-inspired graphics on streetwear and accessories.
+Peplum Redux,Waist ruffle tops and jackets reimagined in crisp tailoring.
+Racerback Maxi Dresses,Floor-length dresses with activewear-inspired backs.
+Velvet Bodysuits,Soft-touch one-pieces styled under jeans or skirts.
+Paperbag Shorts,High-waisted shorts with cinched gathered tops.
+Bandana Prints,Paisley and scarf motifs used across full outfits.
+Beaded Anklets,Colorful anklets styled with heels or sandals.
+Frayed Seams,Inside-out or distressed seam edges used decoratively.
+Embroidered Beanies,Winter hats with stitched phrases or florals.
+Cutout Gloves,Gloves with open backs or knuckle holes for style.
+Windbreaker Dresses,Sporty nylon dresses with drawstrings and hoods.
+Floral Appliqués,3D flowers stitched onto sheer or knit fabrics.
+Wide-Leg Jumpsuits,One-piece outfits with dramatic flared bottoms.
+Printed Denim Jackets,Jean jackets with full-coverage artistic prints.
+Satin Bucket Hats,Glossy hats for mixing streetwear with polish.
+Rhinestone Mesh,Sheer mesh garments dotted with crystals.
+Shell Jewelry,Puka shell and cowrie jewelry updated for 2025.
+Painter Pants,Utility pants with wide legs and workwear pockets.
+Shoulder Cutouts,Tops with subtle shoulder reveals.
+Belted Capes,Wrap capes with waist belts blending coziness and structure.
+Side-Tie Tops,Asymmetric blouses tied off to one side.
+Layered Belts,Two or more belts stacked or crossed on the waist.
+Satin Midi Skirts,"Bias-cut skirts in soft, shiny satin."
+Structured Halters,High-neck halter tops with tailored lines.
+Tassel Earrings,Extra-long earrings featuring yarn or bead tassels.
+Glossy Rain Boots,"Slick, high-shine rubber boots in bold colors."
+Fleece Miniskirts,Cozy fleece skirts styled with tights and boots.
+Sun-Print Fabrics,UV-reactive prints that change color in sunlight.
+Crossbody Harness Bags,Functional bags worn diagonally like holsters.
+Foil Print Leggings,Shiny abstract foil on activewear pieces.
+Pintuck Detailing,Small vertical tucks adding shape to tops and pants.
+Patch Denim Maxi Skirts,Floor-length patchwork skirts in mixed denim.
+Houndstooth Revival,Large check patterns in coats and trousers.
+Metallic Bomber Jackets,"Shiny flight jackets in gold, silver, and chrome."
+One-Sleeve Tops,Tops with only one long or puff sleeve.
+Wool Culottes,"Wide, cropped wool trousers for winter."
+Gingham Overcoats,Plaid outerwear in soft pastel tones.
+Shoulder Drape Tops,Loose fabric draped off one shoulder for asymmetry.
+Glossy Denim,Glossy Denim used in Vests for a Neo-punk aesthetic.
+Oversized Utility,Oversized Utility used in Pants for a Cottagecore aesthetic.
+Oversized Satin,Oversized Satin used in Trench Coats for a Vintage aesthetic.
+Crinkled Leather,Crinkled Leather used in Dresses for a Futuristic aesthetic.
+Pleated Cotton,Pleated Cotton used in Cargo Pants for a Cybercore aesthetic.
+Gradient Utility,Gradient Utility used in Hoodies for a Nautical aesthetic.
+Structured Wool,Structured Wool used in Hoodies for a Cybercore aesthetic.
+Layered Utility,Layered Utility used in Mini Skirts for a Corporate aesthetic.
+Crinkled Knit,Crinkled Knit used in Dresses for a Vintage aesthetic.
+Pleated Wool,Pleated Wool used in Pants for a Futuristic aesthetic.
+Crinkled Denim,Crinkled Denim used in Cargo Pants for a Futuristic aesthetic.
+Distressed Silk,Distressed Silk used in Vests for a Neo-punk aesthetic.
+Glossy Leather,Glossy Leather used in Hoodies for a Barbiecore aesthetic.
+Draped Knit,Draped Knit used in Cargo Pants for a Skatecore aesthetic.
+Pleated Knit,Pleated Knit used in Trench Coats for a Cottagecore aesthetic.
+Crinkled Lace,Crinkled Lace used in Vests for a Barbiecore aesthetic.
+Draped Denim,Draped Denim used in Mini Skirts for a Cottagecore aesthetic.
+Gradient Knit,Gradient Knit used in Pants for a Corporate aesthetic.
+Draped Utility,Draped Utility used in Vests for a Skatecore aesthetic.
+Cutout Denim,Cutout Denim used in Dresses for a Cybercore aesthetic.
+Gradient Denim,Gradient Denim used in Mini Skirts for a Dystopian aesthetic.
+Structured Leather,Structured Leather used in Pants for a Cottagecore aesthetic.
+Crinkled Silk,Crinkled Silk used in Cargo Pants for a Cottagecore aesthetic.
+Crinkled Utility,Crinkled Utility used in Mini Skirts for a Cottagecore aesthetic.
+Pleated Utility,Pleated Utility used in Vests for a Barbiecore aesthetic.
+Oversized Wool,Oversized Wool used in Dresses for a Corporate aesthetic.
+Gradient Silk,Gradient Silk used in Hoodies for a Dystopian aesthetic.
+Structured Satin,Structured Satin used in Hoodies for a Cottagecore aesthetic.
+Glossy Utility,Glossy Utility used in Cargo Pants for a Cybercore aesthetic.
+Draped Leather,Draped Leather used in Tops for a Dystopian aesthetic.
+Structured Knit,Structured Knit used in Dresses for a Futuristic aesthetic.
+Structured Silk,Structured Silk used in Mini Skirts for a Barbiecore aesthetic.
+Distressed Lace,Distressed Lace used in Mini Skirts for a Vintage aesthetic.
+Crinkled Satin,Crinkled Satin used in Trench Coats for a Barbiecore aesthetic.
+Cutout Leather,Cutout Leather used in Blazers for a Cottagecore aesthetic.
+Cutout Utility,Cutout Utility used in Blazers for a Skatecore aesthetic.
+Structured Lace,Structured Lace used in Cargo Pants for a Nautical aesthetic.
+Draped Satin,Draped Satin used in Cargo Pants for a Cybercore aesthetic.
+Distressed Utility,Distressed Utility used in Mini Skirts for a Dystopian aesthetic.
+Glossy Silk,Glossy Silk used in Tops for a Cybercore aesthetic.
+Gradient Mesh,Gradient Mesh used in Hoodies for a Futuristic aesthetic.
+Structured Cotton,Structured Cotton used in Cargo Pants for a Futuristic aesthetic.
+Cutout Mesh,Cutout Mesh used in Tops for a Skatecore aesthetic.
+Crinkled Wool,Crinkled Wool used in Vests for a Neo-punk aesthetic.
+Crinkled Mesh,Crinkled Mesh used in Vests for a Skatecore aesthetic.
+Distressed Mesh,Distressed Mesh used in Dresses for a Corporate aesthetic.
+Glossy Cotton,Glossy Cotton used in Pants for a Nautical aesthetic.
+Layered Leather,Layered Leather used in Mini Skirts for a Cybercore aesthetic.
+Distressed Wool,Distressed Wool used in Mini Skirts for a Futuristic aesthetic.
+Layered Knit,Layered Knit used in Ponchos for a Dystopian aesthetic.
+Oversized Denim,Oversized Denim used in Mini Skirts for a Cottagecore aesthetic.
+Cutout Knit,Cutout Knit used in Pants for a Cybercore aesthetic.
+Draped Cotton,Draped Cotton used in Hoodies for a Vintage aesthetic.
+Pleated Mesh,Pleated Mesh used in Ponchos for a Dystopian aesthetic.
+Structured Mesh,Structured Mesh used in Pants for a Neo-punk aesthetic.
+Draped Mesh,Draped Mesh used in Tops for a Barbiecore aesthetic.
+Oversized Knit,Oversized Knit used in Dresses for a Dystopian aesthetic.
+Layered Wool,Layered Wool used in Dresses for a Vintage aesthetic.
+Layered Mesh,Layered Mesh used in Pants for a Futuristic aesthetic.
+Draped Wool,Draped Wool used in Blazers for a Skatecore aesthetic.
+Layered Lace,Layered Lace used in Tops for a Cottagecore aesthetic.
+Gradient Leather,Gradient Leather used in Tops for a Futuristic aesthetic.
+Structured Denim,Structured Denim used in Blazers for a Vintage aesthetic.
+Oversized Leather,Oversized Leather used in Ponchos for a Corporate aesthetic.
+Distressed Leather,Distressed Leather used in Dresses for a Vintage aesthetic.
+Pleated Satin,Pleated Satin used in Mini Skirts for a Futuristic aesthetic.
+Distressed Cotton,Distressed Cotton used in Vests for a Nautical aesthetic.
+Layered Silk,Layered Silk used in Hoodies for a Futuristic aesthetic.
+Distressed Knit,Distressed Knit used in Pants for a Dystopian aesthetic.
+Cutout Cotton,Cutout Cotton used in Trench Coats for a Dystopian aesthetic.
+Cutout Wool,Cutout Wool used in Trench Coats for a Cottagecore aesthetic.
+Pleated Leather,Pleated Leather used in Blazers for a Barbiecore aesthetic.
+Glossy Mesh,Glossy Mesh used in Trench Coats for a Skatecore aesthetic.
+Pleated Silk,Pleated Silk used in Dresses for a Dystopian aesthetic.
+Oversized Silk,Oversized Silk used in Blazers for a Skatecore aesthetic.
+Cutout Lace,Cutout Lace used in Dresses for a Nautical aesthetic.
+Glossy Satin,Glossy Satin used in Cargo Pants for a Dystopian aesthetic.
+Distressed Denim,Distressed Denim used in Ponchos for a Vintage aesthetic.
+Glossy Knit,Glossy Knit used in Pants for a Vintage aesthetic.
+Oversized Lace,Oversized Lace used in Trench Coats for a Barbiecore aesthetic.
+Draped Lace,Draped Lace used in Pants for a Skatecore aesthetic.
+Glossy Lace,Glossy Lace used in Pants for a Vintage aesthetic.
+Oversized Mesh,Oversized Mesh used in Blazers for a Cybercore aesthetic.
+Gradient Wool,Gradient Wool used in Tops for a Barbiecore aesthetic.
+Structured Utility,Structured Utility used in Pants for a Dystopian aesthetic.
+Gradient Satin,Gradient Satin used in Ponchos for a Barbiecore aesthetic.
+Cutout Silk,Cutout Silk used in Pants for a Futuristic aesthetic.
+Cutout Satin,Cutout Satin used in Ponchos for a Nautical aesthetic.
+Pleated Lace,Pleated Lace used in Mini Skirts for a Barbiecore aesthetic.
+Pleated Denim,Pleated Denim used in Blazers for a Futuristic aesthetic.
+Glossy Wool,Glossy Wool used in Cargo Pants for a Neo-punk aesthetic.
+Layered Cotton,Layered Cotton used in Mini Skirts for a Futuristic aesthetic.
+Gradient Lace,Gradient Lace used in Blazers for a Futuristic aesthetic.
+Layered Denim,Layered Denim used in Hoodies for a Barbiecore aesthetic.
+Layered Satin,Layered Satin used in Ponchos for a Barbiecore aesthetic.
+Draped Silk,Draped Silk used in Trench Coats for a Barbiecore aesthetic.
+Crinkled Cotton,Crinkled Cotton used in Hoodies for a Cottagecore aesthetic.
+Oversized Cotton,Oversized Cotton used in Tops for a Skatecore aesthetic.
+Distressed Satin,Distressed Satin used in Dresses for a Vintage aesthetic.
+Gradient Tweed,Gradient Tweed featured in Vests for a Cybercore look.
+Sheer Mesh,Sheer Mesh featured in Pants for a Utility Futurism look.
+Padded Lace,Padded Lace featured in Dresses for a Utility Futurism look.
+Hybrid Fleece,Hybrid Fleece featured in Overcoats for a Cybercore look.
+Reinforced Net,Reinforced Net featured in Ponchos for a Dystopian look.
+Glossy Net,Glossy Net featured in Leg Warmers for a Futuristic look.
+Crinkled Organza,Crinkled Organza featured in Overcoats for a Y2K look.
+Double-Layered Leather,Double-Layered Leather featured in Trench Coats for a Androgynous look.
+Draped Tweed,Draped Tweed featured in Vests for a Cottagecore look.
+Double-Layered Tweed,Double-Layered Tweed featured in Unitards for a Androgynous look.
+Double-Layered PVC,Double-Layered PVC featured in Shackets for a Corporate look.
+Gradient Net,Gradient Net featured in Shackets for a Dystopian look.
+Crinkled Raffia,Crinkled Raffia featured in Culottes for a Vintage look.
+Oversized Velvet,Oversized Velvet featured in Co-ord Sets for a Cybercore look.
+Hybrid Tweed,Hybrid Tweed featured in Co-ord Sets for a Skatecore look.
+Hybrid Mesh,Hybrid Mesh featured in Vests for a Sci-fi look.
+Reinforced Knit,Reinforced Knit featured in Vests for a Artsy look.
+Double-Layered Utility,Double-Layered Utility featured in Vests for a Cybercore look.
+Pleated Net,Pleated Net featured in Mini Skirts for a Desertcore look.
+Tinted Knit,Tinted Knit featured in Trench Coats for a Vintage look.
+Wrapped Denim,Wrapped Denim featured in Unitards for a Barbiecore look.
+Double-Layered Lace,Double-Layered Lace featured in Trench Coats for a Corporate look.
+Cutout Raffia,Cutout Raffia featured in Chokers for a Skatecore look.
+Draped Sequins,Draped Sequins featured in Overcoats for a Cybercore look.
+Reinforced Terrycloth,Reinforced Terrycloth featured in Tops for a Barbiecore look.
+Wrapped PVC,Wrapped PVC featured in Dresses for a Grunge look.
+Padded Utility,Padded Utility featured in Vests for a Futuristic look.
+Sculpted Organza,Sculpted Organza featured in Trench Coats for a Dystopian look.
+Tinted Terrycloth,Tinted Terrycloth featured in Shackets for a Nautical look.
+Reinforced Organza,Reinforced Organza featured in Ponchos for a Cottagecore look.
+Cutout Sequins,Cutout Sequins featured in Mini Skirts for a Surrealist look.
+Glossy Sequins,Glossy Sequins featured in Shackets for a Cybercore look.
+Double-Layered Raffia,Double-Layered Raffia featured in Chokers for a Experimental look.
+Pleated Velvet,Pleated Velvet featured in Leg Warmers for a Futuristic look.
+Cutout Velvet,Cutout Velvet featured in Shrugs for a Vintage look.
+Twisted PVC,Twisted PVC featured in Hoodies for a Androgynous look.
+Split Cotton,Split Cotton featured in Culottes for a Nautical look.
+Wrapped Net,Wrapped Net featured in Overcoats for a Barbiecore look.
+Tinted Leather,Tinted Leather featured in Dresses for a Corporate look.
+Sculpted Utility,Sculpted Utility featured in Dresses for a Artsy look.
+Padded Tweed,Padded Tweed featured in Shackets for a Desertcore look.
+Tinted Sequins,Tinted Sequins featured in Dresses for a Dystopian look.
+Distressed Sequins,Distressed Sequins featured in Jumpsuits for a Futuristic look.
+Distressed Velvet,Distressed Velvet featured in Chokers for a Neo-punk look.
+Reinforced Fleece,Reinforced Fleece featured in Mini Skirts for a Grunge look.
+Glossy Tweed,Glossy Tweed featured in Tops for a Experimental look.
+Sculpted Satin,Sculpted Satin featured in Shackets for a Corporate look.
+Split Fleece,Split Fleece featured in Co-ord Sets for a Surrealist look.
+Crinkled Foil,Crinkled Foil featured in Leg Warmers for a Dystopian look.
+Layered PVC,Layered PVC featured in Blazers for a Neo-punk look.
+Wrapped Leather,Wrapped Leather featured in Culottes for a Vintage look.
+Gradient PVC,Gradient PVC featured in Loafers for a Grunge look.
+Structured Raffia,Structured Raffia featured in Leg Warmers for a Nautical look.
+Sheer Net,Sheer Net featured in Cargo Pants for a Experimental look.
+Twisted Utility,Twisted Utility featured in Shackets for a Desertcore look.
+Crinkled PVC,Crinkled PVC featured in Shrugs for a Utility Futurism look.
+Tinted Net,Tinted Net featured in Pants for a Neo-punk look.
+Draped Foil,Draped Foil featured in Trench Coats for a Nautical look.
+Twisted Silk,Twisted Silk featured in Overcoats for a Surrealist look.
+Sculpted Fleece,Sculpted Fleece featured in Jumpsuits for a Artsy look.
+Tinted Utility,Tinted Utility featured in Dresses for a Androgynous look.
+Twisted Knit,Twisted Knit featured in Ponchos for a Futuristic look.
+Hybrid Velvet,Hybrid Velvet featured in Vests for a Cybercore look.
+Hybrid Organza,Hybrid Organza featured in Mini Skirts for a Futuristic look.
+Sheer Cotton,Sheer Cotton featured in Leg Warmers for a Cybercore look.
+Oversized Net,Oversized Net featured in Trench Coats for a Experimental look.
+Reinforced Cotton,Reinforced Cotton featured in Co-ord Sets for a Androgynous look.
+Tinted Mesh,Tinted Mesh featured in Pants for a Cybercore look.
+Padded Raffia,Padded Raffia featured in Mini Skirts for a Futuristic look.
+Pleated PVC,Pleated PVC featured in Co-ord Sets for a Utility Futurism look.
+Sheer Satin,Sheer Satin featured in Loafers for a Cybercore look.
+Split Raffia,Split Raffia featured in Trench Coats for a Futuristic look.
+Pleated Foil,Pleated Foil featured in Blazers for a Androgynous look.
+Crinkled Terrycloth,Crinkled Terrycloth featured in Co-ord Sets for a Skatecore look.
+Distressed PVC,Distressed PVC featured in Jumpsuits for a Experimental look.
+Reinforced Satin,Reinforced Satin featured in Leg Warmers for a Cottagecore look.
+Sheer Tweed,Sheer Tweed featured in Mini Skirts for a Cottagecore look.
+Crinkled Tweed,Crinkled Tweed featured in Jumpsuits for a Neo-punk look.
+Hybrid Net,Hybrid Net featured in Cargo Pants for a Skatecore look.
+Distressed Tweed,Distressed Tweed featured in Jumpsuits for a Neo-punk look.
+Tinted Foil,Tinted Foil featured in Chokers for a Dystopian look.
+Twisted Raffia,Twisted Raffia featured in Trench Coats for a Artsy look.
+Sheer Leather,Sheer Leather featured in Tops for a Barbiecore look.
+Oversized Organza,Oversized Organza featured in Vests for a Experimental look.
+Oversized Terrycloth,Oversized Terrycloth featured in Chokers for a Desertcore look.
+Sheer Knit,Sheer Knit featured in Loafers for a Surrealist look.
+Sculpted Lace,Sculpted Lace featured in Loafers for a Cottagecore look.
+Glossy Terrycloth,Glossy Terrycloth featured in Vests for a Skatecore look.
+Glossy Raffia,Glossy Raffia featured in Unitards for a Dystopian look.
+Wrapped Terrycloth,Wrapped Terrycloth featured in Culottes for a Cybercore look.
+Double-Layered Foil,Double-Layered Foil featured in Unitards for a Artsy look.
+Reinforced Leather,Reinforced Leather featured in Chokers for a Vintage look.
+Structured Sequins,Structured Sequins featured in Shackets for a Vintage look.
+Sheer Velvet,Sheer Velvet featured in Trench Coats for a Androgynous look.
+Padded Satin,Padded Satin featured in Shrugs for a Vintage look.
+Draped Organza,Draped Organza featured in Loafers for a Grunge look.
+Padded Net,Padded Net featured in Trench Coats for a Y2K look.
+Padded Velvet,Padded Velvet featured in Hoodies for a Nautical look.
+Double-Layered Wool,Double-Layered Wool featured in Shrugs for a Desertcore look.
+Oversized Tweed,Oversized Tweed featured in Tops for a Skatecore look.
